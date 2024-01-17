@@ -1,0 +1,1 @@
+# Snake game for the Global Game Jam Competition 2024
